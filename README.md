@@ -41,4 +41,4 @@
 
 ## 📫 Connect With Me
 
-* LinkedIn: [ADD THIS LATER]
+* LinkedIn: https://www.linkedin.com/in/charles-emejulu-3802152b3/
