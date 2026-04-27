@@ -24,11 +24,9 @@
 
 ---
 
-## 📂 Cybersecurity Projects (In Progress 🚧)
+## 📂 Cybersecurity Projects
 
-* SOC Analyst Labs (coming soon)
-* TryHackMe Write-Ups (coming soon)
-
+- 🔐 [Linux Failed Login Investigation](LINK HERE)
 ---
 
 ## 📈 Current Focus
