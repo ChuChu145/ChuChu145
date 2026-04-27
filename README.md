@@ -30,7 +30,7 @@
 ---
 ## 🧭 SOC-Relevant Experience
 
-* 📘 <a href= "https://github.com/ChuChu145/Incident-Response-Notes/blob/main/incident-handling-workflow.md">Incident Handling Experience</a>
+* 📘 <a href= "https://github.com/ChuChu145/Incident-Response-Notes/tree/main">Incident Handling Experience</a>
 
 Demonstrates my real-world experience monitoring, documenting, and escalating incidents in a live environment, aligned with SOC workflows such as alert triage and incident response.
 
