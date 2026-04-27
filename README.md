@@ -26,8 +26,14 @@
 
 ## 📂 Cybersecurity Projects
 
-- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/linux-failed-logins.md"> Linux Failed Login Investigation </a>
+- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/linux-brute-force-investigation.md"> Linux Brute Force Investigation </a>
 ---
+## 🧭 SOC-Relevant Experience
+
+* 📘 [Incident Handling Experience](LINK)
+
+Demonstrates my real-world experience monitoring, documenting, and escalating incidents in a live environment, aligned with SOC workflows such as alert triage and incident response.
+
 
 ## 📈 Current Focus
 
