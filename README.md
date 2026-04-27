@@ -30,7 +30,7 @@
 ---
 ## 🧭 SOC-Relevant Experience
 
-* 📘 [Incident Handling Experience](./incident-handling-workflow.md)
+* 📘 [Incident Handling Experience](incident-handling-workflow.md)
 
 Demonstrates my real-world experience monitoring, documenting, and escalating incidents in a live environment, aligned with SOC workflows such as alert triage and incident response.
 
