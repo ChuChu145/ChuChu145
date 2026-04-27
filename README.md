@@ -26,7 +26,7 @@
 
 ## 📂 Cybersecurity Projects
 
-- 🔐 [Linux Failed Login Investigation](LINK HERE)
+- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/linux-failed-logins.md"> Linux Failed Login Investigation </a>
 ---
 
 ## 📈 Current Focus
