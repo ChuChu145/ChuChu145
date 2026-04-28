@@ -33,12 +33,12 @@
 * 📘 <a href= "https://github.com/ChuChu145/Incident-Response-Notes/tree/main">Incident Handling Experience</a>
 
 Demonstrates my real-world experience monitoring, documenting, and escalating incidents in a live environment, aligned with SOC workflows such as alert triage and incident response.
+
 ## 🌐 Portfolio Website
 
 * 💻 [View My Portfolio](https://chu-portfolio.netlify.app/)
 
-This website showcases my transition from frontend development into cybersecurity, including my projects, certifications, and SOC-focused learning journey.
-
+A personal website showcasing my transition into cybersecurity, including SOC-focused projects, certifications, and real-world incident handling experience. It complements my GitHub by providing a structured overview of my skills and learning journey.
 
 ## 📈 Current Focus
 
