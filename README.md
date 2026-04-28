@@ -36,9 +36,13 @@ Demonstrates my real-world experience monitoring, documenting, and escalating in
 
 ## 🌐 Portfolio Website
 
+---
+
 * 💻 [View My Portfolio](https://chu-portfolio.netlify.app/)
 
 A personal website showcasing my transition into cybersecurity, including SOC-focused projects, certifications, and real-world incident handling experience. It complements my GitHub by providing a structured overview of my skills and learning journey.
+
+---
 
 ## 📈 Current Focus
 
