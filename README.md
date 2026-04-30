@@ -27,6 +27,7 @@
 ## 📂 Cybersecurity Projects
 
 - 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/linux-brute-force-investigation.md"> Linux Brute Force Investigation </a>
+- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/active-directory-user-management.md"> Active Directory User Management</a>
 ---
 ## 🧭 SOC-Relevant Experience
 
