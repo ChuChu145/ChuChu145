@@ -26,7 +26,7 @@
 
 ## 📂 Top Cybersecurity Projects
 - 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/Labs/siem-alert-triage-report.md">SIEM Alert Triage</a>
-- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/siem-alert-triage-report.md">Case-Studies</a>
+- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/case-studies/Phishing-Infrastructure-Investigation.md">Phishing Infrastructure Investigation</a>
 ---
 ## 🧭 SOC-Relevant Experience
 
