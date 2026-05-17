@@ -24,8 +24,8 @@
 
 ---
 
-## 📂 Cybersecurity Projects
-- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/active-directory-user-management.md">Labs</a>
+## 📂 Top Cybersecurity Projects
+- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/Labs/siem-alert-triage-report.md">SIEM Alert Triage</a>
 - 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/siem-alert-triage-report.md">Case-Studies</a>
 ---
 ## 🧭 SOC-Relevant Experience
