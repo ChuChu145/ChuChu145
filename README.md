@@ -17,11 +17,18 @@
 
 ## 🛠️ Skills
 
-* Log Analysis & Investigation
-* Linux (basic command-line, log review)
-* Networking (TCP/IP, ports, protocols)
-* Incident documentation & escalation
-
+* Security Operations Centre (SOC) monitoring, alert triage, and incident escalation  
+* Phishing analysis and email threat investigation (header analysis, IMF parsing, attachment review, URL analysis)  
+* PCAP and network traffic analysis using Wireshark (SMTP, DNS, HTTP/S, packet filtering)  
+* Malware investigation (file hashing, SHA256 analysis, VirusTotal reputation checks)  
+* Threat intelligence analysis (IOC extraction, domain/IP reputation validation, attack infrastructure mapping)  
+* Linux command-line for security analysis (log review, file inspection, hashing, basic forensics)  
+* Networking fundamentals (TCP/IP, DNS, HTTP/S, SMTP, ports, and protocol behaviour)  
+* Web-based attack analysis (phishing kits, credential harvesting pages, redirect chains, obfuscated content)  
+* Log analysis and interpretation (security logs, email logs, SIEM-style investigation workflows)  
+* Incident response processes (triage, containment support, escalation, documentation)  
+* Cybersecurity investigation reporting (structured case studies and technical write-ups for incidents)  
+* Tools: Wireshark, CyberChef, VirusTotal, Linux terminal, Git/GitHub  
 ---
 
 ## 📂 Top Cybersecurity Projects
