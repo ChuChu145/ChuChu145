@@ -25,8 +25,6 @@
 ---
 
 ## 📂 Cybersecurity Projects
-
-- 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/linux-brute-force-investigation.md"> Linux Brute Force Investigation </a>
 - 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/active-directory-user-management.md"> Active Directory User Management</a>
 - 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/siem-alert-triage-report.md"> Siem Alert Triage Report</a>
 - 🔐 <a href="https://github.com/ChuChu145/soc-analyst-labs/blob/main/case-studies/malicious-url-blocked.md"> Malicious-Url Connection Attempt</a>
